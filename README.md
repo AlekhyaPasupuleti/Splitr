@@ -5,7 +5,7 @@
 ## ✨ Features
 
 - 🔐 **Authentication** with Clerk
-- 🧠 **AI-Powered Suggestions** using Google Generative AI
+- 🧠 **AI-Powered Suggestions** using Gemini AI
 - 📊 **Data Visualizations** with Recharts
 - 🎨 **Modern UI** using TailwindCSS and Radix UI components
 - 📦 **Backendless Data Layer** with Convex
@@ -25,7 +25,7 @@
 | Forms         | React Hook Form, Zod, Hookform Resolvers       |
 | Backend       | Convex (serverless), Inngest (job/event system)|
 | Auth          | Clerk (frontend + backend SDKs)                |
-| AI            | Google Generative AI API                       |
+| AI            | Gemini AI API                       |
 | Charts        | Recharts                                       |
 | Email         | Resend                                         |
 
